@@ -1,0 +1,18 @@
+c:\users\coordinacion\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\bin\Debug\AbstractFactoryAutomovil.exe
+c:\users\coordinacion\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\bin\Debug\AbstractFactoryAutomovil.pdb
+c:\users\coordinacion\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\coordinacion\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.Cliente.resources
+c:\users\coordinacion\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.Properties.Resources.resources
+c:\users\coordinacion\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\coordinacion\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\coordinacion\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.exe
+c:\users\coordinacion\documents\visual studio 2010\Projects\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.pdb
+F:\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.exe
+F:\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.pdb
+F:\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.Cliente.resources
+F:\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\AbstractFactoryAutomovil.Properties.Resources.resources
+F:\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\AbstractFactoryAutomovil\AbstractFactoryAutomovil\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\AbstractFactoryAutomovil\AbstractFactoryAutomovil\bin\Debug\AbstractFactoryAutomovil.exe
+F:\AbstractFactoryAutomovil\AbstractFactoryAutomovil\bin\Debug\AbstractFactoryAutomovil.pdb
